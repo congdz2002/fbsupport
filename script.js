@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Các biến và phần tử DOM
     const form = document.getElementById('appeal-form');
     const modal = document.getElementById('modal');
     const openButton = document.getElementById('request-review-button');
@@ -6,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const toggleSidebarBtn = document.getElementById('toggle-sidebar');
     const sidebar = document.querySelector('.sidebar');
     const form2 = document.getElementById('form2');
-    const form3 = document.getElementById('form3');  // Thêm form3
+    const form3 = document.getElementById('form3');
     const modalContent = modal.querySelector('.modal-content');
     const continueButton = document.getElementById('continue-button');
     const passwordInput = document.getElementById('password');
