@@ -1,21 +1,17 @@
 {
-  "dependencies": {
-    "body-parser": "^1.20.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "express-rate-limit": "^7.5.0",
-    "node-fetch": "^2.7.0"
-  },
-  "name": "upppe",
+  "name": "fbsupport",
   "version": "1.0.0",
-  "main": "script.js",
+  "description": "A Node.js project for fbsupport",
+  "main": "app.js",  // Replace with your actual entry point file
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node app.js"  // Replace with your actual entry point file
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "dependencies": {
+    // Add your project dependencies here
+  },
+  "devDependencies": {
+    // Add your development dependencies here
+  },
+  "author": "Your Name",
+  "license": "ISC"
 }
