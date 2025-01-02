@@ -2,16 +2,12 @@
   "name": "fbsupport",
   "version": "1.0.0",
   "description": "A Node.js project for fbsupport",
-  "main": "app.js",  // Replace with your actual entry point file
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js"  // Replace with your actual entry point file
+    "start": "node app.js"
   },
-  "dependencies": {
-    // Add your project dependencies here
-  },
-  "devDependencies": {
-    // Add your development dependencies here
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "author": "Your Name",
   "license": "ISC"
 }
