@@ -1,15 +1,1 @@
-# fbsupport
-
-## Setup Instructions
-
-### Prerequisites
-
-- Node.js (version >= 12.0.0)
-- npm (Node Package Manager)
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/congdz2002/fbsupport.git
-   cd fbsupport
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48698a12-ff03-4f36-92fa-74cfd10c9ddb/deploy-status)](https://app.netlify.com/sites/business-idfbcheck/deploys)
